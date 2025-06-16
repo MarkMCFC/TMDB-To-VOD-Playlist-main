@@ -1,0 +1,11 @@
+
+1, upload the folder 'TMDB-To-VOD-Playlist-main' and its contents to your root directory via an ftp client
+
+2, Login to putty and copy and paste these 3 commands (one at a time):
+cd /root/TMDB-To-VOD-Playlist-main/HeadlessVidX/
+chmod +x install-linux.sh
+./install-linux.sh
+
+
+Go to your dmain to view your website
+http://your.domain.or.ip:3202
