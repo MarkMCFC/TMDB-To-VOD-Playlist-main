@@ -39,7 +39,7 @@ $USE_HTTP_PROXY = false;
 //When set to true your playist is created by running the 'create_playlist.php' and 'create_tv_playlist.php'
 //When set to false the the movie and tv show playlist will be loaded from github. The playlists on github 
 //are around 45k movies and around 12k series.
-$userCreatePlaylist = false; // Set to false if you don't want to create any playlist.
+$userCreatePlaylist = true; // Set to false if you don't want to create any playlist.
 
 // Adds approximately 10,000 full-length adult movies to the VOD Movie playlist
 //under the category 'XXX Adult Movies'. This playlist is refreshed every Sunday.
