@@ -2,7 +2,7 @@
 
 <h2><b>Quick Easy Setup Guide See Link</b></h2>
 https://forum.tfms.xyz/index.php?/topic/805-tmdb-to-vod-playlist/<br><br>
-<b>Sign-Up required it takes just 20 seconds with no email verification etc<br>
+<b>Sign-Up required it takes just 20 seconds with no email verification etc<br><br>
 Or follow the info below</b><br>
 ================================================================================<br><br><br>
 
