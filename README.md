@@ -4,7 +4,7 @@
 https://forum.tfms.xyz/index.php?/topic/805-tmdb-to-vod-playlist/<br><br>
 <b>Sign-Up required it takes just 20 seconds with no email verification etc<br>
 Local-Host Users Only (You need your own ubuntu server)<br><br>
-Or follow the info below</b><br>
+See below for more info</b><br>
 ================================================================================<br><br><br>
 
 <img src="https://github.com/user-attachments/assets/7925cf0a-63b7-43ab-8a1e-d099306985fe" alt="Demo GIF" width="70%">
