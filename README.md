@@ -1,9 +1,9 @@
 # TMDB to VOD: Free Live TV, Movies & Series Playlist \[Xtream Codes & M3U8\]
 
-Quick Easy Setup Guide HERE<br>
-https://forum.tfms.xyz/index.php?/topic/805-tmdb-to-vod-playlist/<br>
-Sign-Up required it takes just 20 seconds with no email verification etc<br>
-Or follow the info below<br>
+<b>Quick Easy Setup Guide HERE</b><br>
+https://forum.tfms.xyz/index.php?/topic/805-tmdb-to-vod-playlist/<br><br>
+<b>Sign-Up required it takes just 20 seconds with no email verification etc<br>
+Or follow the info below</b><br>
 ================================================================================<br><br>
 
 <img src="https://github.com/user-attachments/assets/7925cf0a-63b7-43ab-8a1e-d099306985fe" alt="Demo GIF" width="70%">
